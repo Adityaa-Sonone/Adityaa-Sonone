@@ -85,6 +85,9 @@ I'm always excited to meet new people and collaborate on exciting tech projects.
 >  “Learning never exhausts the mind.” – Leonardo da Vinci
 <!-- “The best way to predict the future is to invent it.” – Alan Kay -->
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=Karan-Dahiwale&icon=0&color=0)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityaa-Sonone/Adityaa-Sonone/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityaa-Sonone/Adityaa-Sonone/output/github-snake.svg" />
