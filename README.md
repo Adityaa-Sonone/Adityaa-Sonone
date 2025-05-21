@@ -57,26 +57,19 @@ Developed smart gloves using **flex sensors & Arduino** for **sign language tran
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adityaa-Sonone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 📈 Let's Connect!
 
 I'm always excited to meet new people and collaborate on exciting tech projects. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/aditya-sonone-8871b2181) or reach out by email at **adityasonone8@gmail.com**.
 
 ---
+### ✍️ Random Dev Quote
 
 >  “Learning never exhausts the mind.” – Leonardo da Vinci
 <!-- “The best way to predict the future is to invent it.” – Alan Kay -->
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adityaa-Sonone&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Adityaa-Sonone&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
