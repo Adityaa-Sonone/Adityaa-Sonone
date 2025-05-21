@@ -1,3 +1,14 @@
+![logo](logo.png)
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 # 👋 Hi, I'm Aditya Sonone
 
 🎓 **Electronics & Telecommunication Engineer** | 💻 **Aspiring Software Development Engineer**  
