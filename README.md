@@ -3,16 +3,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=69d4f5&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+%F0%9F%90%8D" alt="Typing SVG" />
   </a>
 </p>
 
 
 
-# 👋 Hi, I'm Aditya Sonone
+<h1 align="center">👋 Hi, I'm Aditya Sonone </h1>
 
-🎓 **Electronics & Telecommunication Engineer** | 💻 **Aspiring Software Development Engineer**  
+🎓 **Electronics & Telecommunication Engineer** |  💻 **Aspiring Software Development Engineer**  
 +91 9834929212 | 📧 adityasonone8@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-sonone-8871b2181) |📍 Nagpur, Maharashtra
+
 
 ---
 
@@ -52,9 +53,11 @@ Currently, I’m seeking opportunities to grow as a **Software Development Engin
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 
-### Concepts
+### 📘 Concepts
 
-Object-Oriented Programming, Embedded Systems, REST APIs
+- Object-Oriented Programming
+- Embedded Systems
+- REST APIs
 
 ---
 
