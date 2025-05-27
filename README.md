@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a tech-driven engineering graduate passionate about crafting software solutions that solve real-world problems. With hands-on experience in **C, C++, Python, and JavaScript**, I enjoy building embedded systems, working with REST APIs, and exploring full-stack development.
 
@@ -27,7 +27,16 @@ Currently, I’m seeking opportunities to grow as a **Software Development Engin
 
 ---
 
-## 🧰 Skills
+## 🌐 Connect with Me
+
+### LinkedIn       
+### Instagram 
+### E-Mail
+### Contact
+
+---
+
+# 🧰 Skills
 
 
 ### 💻 Programming Languages  
@@ -61,8 +70,7 @@ Currently, I’m seeking opportunities to grow as a **Software Development Engin
 
 ---
 
-
-## 🔧 Academics Projects
+# 🔧 Academics Projects
 
 ### 🔍 Motion Detector System  
 Built a real-time motion detection system using **Raspberry Pi**, PIR sensor & Pi camera  
@@ -77,9 +85,9 @@ Developed smart gloves using **flex sensors & Arduino** for **sign language tran
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adityaa-Sonone&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sonone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Adityaa-Sonone&theme=&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adityaa-Sonone&theme=&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sonone&theme=&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -88,7 +96,7 @@ Developed smart gloves using **flex sensors & Arduino** for **sign language tran
 I'm always excited to meet new people and collaborate on exciting tech projects. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/aditya-sonone-8871b2181) or reach out by email at **adityasonone8@gmail.com**.
 
 ---
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 >  “Learning never exhausts the mind.” – Leonardo da Vinci
 <!-- “The best way to predict the future is to invent it.” – Alan Kay -->
