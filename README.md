@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=69d4f5&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=69d4f5&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+✨" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,15 +24,6 @@ I'm a tech-driven engineering graduate passionate about crafting software soluti
 <!-- I’ve created projects ranging from **motion detection systems** to **gesture recognition smart gloves**, gaining valuable insights into IoT, sensor integration, and real-time data processing. -->
 
 Currently, I’m seeking opportunities to grow as a **Software Development Engineer**, collaborate with passionate teams, and contribute to impactful tech innovations.
-
----
-
-## 🌐 Connect with Me
-
-### LinkedIn       
-### Instagram 
-### E-Mail
-### Contact
 
 ---
 
@@ -93,7 +84,7 @@ Developed smart gloves using **flex sensors & Arduino** for **sign language tran
 
 ## 📈 Let's Connect!
 
-I'm always excited to meet new people and collaborate on exciting tech projects. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/aditya-sonone-8871b2181) or reach out by email at **adityasonone8@gmail.com**.
+I'm always excited to meet new people and collaborate on exciting tech projects. Feel free to connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sonone/) or reach out by email at **adityasonone8@gmail.com**.
 
 ---
 ## ✍️ Random Dev Quote
